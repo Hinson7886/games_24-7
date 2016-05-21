@@ -1,0 +1,59 @@
+
+
+.nav li{
+	display: inline;
+}
+
+.nav a{
+	color: #35abe5;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 1em;
+	padding-top: 20px;
+	padding-bottom: 200px;
+	padding-left: 10px;
+	display: inline;
+}
+
+.jumbotron h1{
+	position: relative;
+	top: 50px;
+	left: -50px;
+	font-family: 'Montserrat', serif;
+    height:800px;
+    color:#fff;
+    font-size:4em;
+    text-transform: uppercase;
+}
+
+.jumbotron{
+	height:800px;
+    background-image:url('http://1.bp.blogspot.com/-k8pWON-0uvQ/UsR2EEE41lI/AAAAAAAAHPk/fvIgROlUhLw/s1600/games_of_2013_wallpaper_by_sakis25_by_sakis25-d5m89m5.jpg');
+    background-repeat: no-repeat;
+}
+
+.jumbotron p{
+	color: #fff;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	position: absolute;
+	top: 200px;
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3{
+	
+	font-family: 'Montserrat', serif;
+	font-size: 2em;
+	text-transform: uppercase;
+}
+
+.learn-more a{
+	color: #00b0ff;
+	text-transform:uppercase;
+}
+
+
